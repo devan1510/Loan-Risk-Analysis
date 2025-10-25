@@ -13,6 +13,9 @@ Using the latest Power BI tools and visualization features, interactive dashboar
 Evaluate applicants’ risk profiles
 Identify high-risk and low-risk customers
 Support data-driven loan approval decisions
+
+
+
 📊 Dataset Description
 
 
