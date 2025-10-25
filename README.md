@@ -1,2 +1,28 @@
-# Loan-Risk-Analysis
-This project focuses on developing a basic understanding of risk analytics in the banking and financial services domain. It demonstrates how data-driven insights can help minimize the risk of financial loss while lending to customers. The project leverages Power BI to visualize and analyze applicant profiles.
+Problem Statement
+
+
+
+Banks face challenges in assessing the creditworthiness of applicants and minimizing loan default risks. This project aims to analyze banking data and design dashboards that support decision-making — identifying whether an applicant is likely to repay the loan or default based on their financial profile.
+
+Solution
+
+
+
+Using the latest Power BI tools and visualization features, interactive dashboards are built to:
+
+Evaluate applicants’ risk profiles
+Identify high-risk and low-risk customers
+Support data-driven loan approval decisions
+📊 Dataset Description
+
+
+
+The dataset contains multiple interlinked tables with client and banking details:
+
+Banking Relationship
+Client-Banking
+Gender
+Investment Advisor
+Period
+
+
